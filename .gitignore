@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+tmp/
+bin/
+*.exe
+*.pgo
+artifact.bin
+*.github
+*.agent
+bench.txt
+*.bench
